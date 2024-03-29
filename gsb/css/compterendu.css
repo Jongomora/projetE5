@@ -1,0 +1,35 @@
+input[type=text], input[type=date],input[type=password],textarea, select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+    display: flex;
+
+    margin-left: calc(35% - 128px);
+  
+
+  }
+  input[type=submit] {
+    background-color: #77AADD;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    border-radius: 100px;
+}
+input[type=submit]:hover {
+    background-color: #2980d1;
+    color: white;
+  
+    border-radius: 100px;
+}
+
+form{
+    text-align: center;
+    border: black 3px solid;
+}

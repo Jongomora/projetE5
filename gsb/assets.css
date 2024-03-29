@@ -1,0 +1,72 @@
+html, body {
+    margin: 0;padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Ek Mukta', sans-serif;
+  font-weight: 300;
+  color: #666;
+  background-color: #fff;
+  font-size: 16px;
+  line-height: 1.6em;
+  font-weight: 200;
+  overflow-x: hidden;
+  }
+  
+  .inner{
+    width: 60%;
+    margin: auto;
+    height: 66px;
+  }
+  
+  
+  
+  /*---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+  /* HEADER */
+  /*---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+  
+  
+  @import url('https://fonts.googleapis.com/css?family=Poppins');
+  
+  * {
+    box-shadow: 0px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    background-color: #d8e5e4;
+  }
+  .section-1 {
+    padding: 20px;
+    overflow: hidden;
+    border-bottom: 2px solid #fff;
+  }
+  .styling-logo {
+    float: left;
+    height: 90px;
+  }
+  
+  .styling-link {
+    float: right;
+    margin-top: 10px;
+    margin-right: 150px;
+  }
+  .styling-link a {
+    color: #fff;
+    text-decoration: none;
+    margin: 5px 20px;
+    font-size: 20px;
+  }
+  .styling-link a:hover {
+    border-bottom: 2px solid #000;
+    -webkit-transition: all ease 0.75s;
+    -moz-transition: all ease 0.75s;
+  }
+  
+  
+  
+  
+  /*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+  /* FOOTER */
+  /*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+  
